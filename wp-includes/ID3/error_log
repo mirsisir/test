@@ -1,0 +1,20 @@
+[13-Jun-2020 04:58:41 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2020 04:58:41 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2020 04:58:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Jun-2020 04:58:41 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2020 04:58:41 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/arishaservice/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[29-Jun-2020 12:30:00 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[29-Jun-2020 12:30:00 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[29-Jun-2020 12:30:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[29-Jun-2020 12:30:00 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[29-Jun-2020 12:30:00 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/arishaservice/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[02-Jul-2020 09:58:27 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[02-Jul-2020 09:58:27 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[02-Jul-2020 09:58:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Jul-2020 09:58:27 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[02-Jul-2020 09:58:27 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/arishaservice/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[31-Jul-2020 18:25:13 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[31-Jul-2020 18:25:13 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[31-Jul-2020 18:25:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[31-Jul-2020 18:25:13 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[31-Jul-2020 18:25:13 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/arishaservice/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
